@@ -60,7 +60,7 @@ const mathingProduct = getProduct(cartItem).orderSheet;
     </div>
     
     <div class="product-actions">
-      <a href="/tracking.html">
+      <a href="/amazon-simulate-project/tracking.html">
         <button class="track-package-button button-secondary"
         data-tracking-id="${matchingProduct.id}"
         >
